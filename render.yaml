@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: school-events-app       # the name you want on Render
+    name: Little Innovators School       # the name you want on Render
     env: node                     # this is a Node.js app
     plan: free                    # free plan
     branch: main                  # branch of your GitHub repo
