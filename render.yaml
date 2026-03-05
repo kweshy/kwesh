@@ -5,4 +5,4 @@ services:
     plan: free                    # free plan
     branch: main                  # branch of your GitHub repo
     buildCommand: "npm install"   # how to install dependencies
-    startCommand: "node server.js" # how to start the app
+    startCommand: "node server.JS" # how to start the app
